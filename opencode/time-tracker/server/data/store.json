@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "id": "46cad3e9-a402-4f06-bbab-73e608c45727",
+      "name": "ai coding",
+      "color": "#6366f1",
+      "createdAt": "2026-01-17T08:58:33.892Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "f930dc2e-1488-4c75-b395-e80d053cde44",
+      "projectId": "46cad3e9-a402-4f06-bbab-73e608c45727",
+      "name": "learn how to do ai coding",
+      "createdAt": "2026-01-17T08:58:48.984Z"
+    }
+  ],
+  "timeEntries": [
+    {
+      "id": "ecaa7f24-3e18-4b84-afa0-587a695f2967",
+      "projectId": "46cad3e9-a402-4f06-bbab-73e608c45727",
+      "taskId": "f930dc2e-1488-4c75-b395-e80d053cde44",
+      "startTime": "2026-01-17T08:59:03.046Z",
+      "endTime": "2026-01-17T09:03:51.218Z",
+      "notes": "",
+      "createdAt": "2026-01-17T08:59:03.046Z",
+      "duration": 288
+    }
+  ],
+  "settings": {
+    "activeEntryId": null
+  }
+}
